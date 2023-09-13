@@ -7,3 +7,7 @@
 ## SignUp Page
 
 ![Screenshot (22)](https://github.com/ayushbhansingh/group3/assets/25259575/4c9bbfd3-a258-470a-8ef9-257e7dc97855)
+
+## The Login and Signup pages are connected by Hyperlink on each page.
+## Login Page has link in SignUp text (Green)
+## SignUp Page has link in Login Text (Green)
